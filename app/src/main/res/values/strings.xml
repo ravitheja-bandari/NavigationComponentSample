@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation Sample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to NavFragment</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="navigage">Navigage</string>
+</resources>
